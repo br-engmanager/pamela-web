@@ -1,0 +1,69 @@
+// Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/theming/
+
+/** Ionic CSS Variables **/
+:root {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 18px !important;
+  /** ########################################################### **/
+  /** COLORS **/
+  /** ########################################################### **/
+  /** white **/
+  --white: #ffffff;
+  --white-rgb: 256, 256, 256;
+  --white-shade: #ffffff;
+  --white-tint: #ffffff;
+  /** primary **/
+  --primary: #1F2E6B;
+  --primary-rgb: 31, 46, 107;
+  --primary-shade: #182455;
+  --primary-tint: #3A4A8D;
+  /** secondary **/
+  --secondary: #6ED4A0;
+  --secondary-rgb: 110, 212, 160;
+  --secondary-shade: #51AD7E;
+  --secondary-tint: #9CE6C0;
+  /** tertiary **/
+  --tertiary: #5260ff;
+  --tertiary-rgb: 82, 96, 255;
+  --tertiary-shade: #4854e0;
+  --tertiary-tint: #6370ff;
+  /** success **/
+  --success: #95D78D;
+  --success-rgb: 149, 215, 141;
+  --success-shade: #84BF7D;
+  --success-tint: #B2EFAA;
+  /** warning **/
+  --warning: #DADA54;
+  --warning-rgb: 218, 218, 84;
+  --warning-shade: #B8B84B;
+  --warning-tint: #F2F24D;
+  /** danger **/
+  --danger: #EB8D8D;
+  --danger-rgb: 235, 141, 141;
+  --danger-shade: #CB7676;
+  --danger-tint: #FCB9B9;
+  /** dark **/
+  --dark: #3F3F3F;
+  --dark-rgb: 63, 63, 63;
+  --dark-shade: #1D1C1C;
+  --dark-tint: #656565;
+  /** medium **/
+  --medium: #7d7d7e;
+  --medium-rgb: 125, 125, 126;
+  --medium-shade: #47474b;
+  --medium-tint: #949498;
+  /** light **/
+  --light: #FCFCFC;
+  --light-rgb: 252, 252, 252;
+  --light-shade: #E0DBDB;
+  --light-tint: #ffffff;
+  /** ghost **/
+  --ghost: #C9D0ED;
+  --ghost-rgb: 201, 208, 237;
+  --ghost-shade: #A0ABD4;
+  --ghost-tint: #EBEEFB;
+  /** ########################################################### **/
+  /** ########################################################### **/
+}
+
