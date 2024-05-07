@@ -36,7 +36,7 @@ spec:
         terminationMessagePath: /dev/termination-log
         terminationMessagePolicy: File
       imagePullSecrets:
-        - name: regsecrethub
+        - name: regsecretengmanager
       dnsPolicy: ClusterFirst
       restartPolicy: Always
       schedulerName: default-scheduler
