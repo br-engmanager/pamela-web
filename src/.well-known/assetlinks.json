@@ -3,7 +3,7 @@
     "relation": [ "delegate_permission/common.handle_all_urls" ],
     "target": {
       "namespace": "android_app",
-      "package_name": "br.com.comprasa2",
+      "package_name": "br.com.psicologapamelaortiz",
       "sha256_cert_fingerprints": [ "01:1B:B4:B7:31:59:E9:F7:BD:BC:E1:44:D7:83:6C:A1:35:16:8F:C6:8A:0A:E1:93:20:F3:DE:A5:99:DC:B8:6B" ]
     }
   }
