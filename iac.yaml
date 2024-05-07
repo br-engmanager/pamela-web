@@ -29,7 +29,7 @@ spec:
         app: pamela-web
     spec:
       containers:
-      - image: ghcr.io/br-engmanager/pamela-web:1.0.0
+      - image: ghcr.io/br-engmanager/pamela-web:1.0.1
         imagePullPolicy: IfNotPresent
         name: pamela-web
         resources: {}
