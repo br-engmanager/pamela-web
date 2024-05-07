@@ -26,7 +26,7 @@ jobs:
 
       - name: generate tag name
         id: tag
-        run: echo ::set-output name=fullname::br-engmanager/pamela-web:1.0.0
+        run: echo ::set-output name=fullname::br-engmanager/pamela-web:1.0.1
 
       - name: docker build
         run: docker build -t ${{ steps.tag.outputs.fullname }} .
